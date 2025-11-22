@@ -1,4 +1,4 @@
-## Cheathub (E-learning Website)
+## Codehub (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
 ![](pcView.png)
